@@ -1,7 +1,7 @@
 alias pa='php artisan'
 alias ass='sudo service apache2 stop'
 alias start='/home/amar/Desktop/./test.sh'
-alias lp='cd /opt/lampp/htdocs/school-management-system'
+alias lp='cd /opt/lampp/htdocs/Myproject'
 
 alias xamp-s='sudo /opt/lampp/lampp start'
 alias xamp-st='sudo /opt/lampp/lampp stop'
