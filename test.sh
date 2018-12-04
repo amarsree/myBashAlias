@@ -6,4 +6,3 @@ subl /opt/lampp/htdocs/school-management-system
 
 cd /opt/lampp/htdocs/school-management-system
 
-lp
